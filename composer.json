@@ -1,0 +1,14 @@
+{
+    "name": "dartius/file-saver",
+    "type": "library",
+    "autoload": {
+        "psr-4": {"Dartius\\FileSaver\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Andrew Radzun",
+            "email": "andrad.work@gmail.com"
+        }
+    ],
+    "require": {}
+}
